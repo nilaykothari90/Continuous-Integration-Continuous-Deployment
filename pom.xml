@@ -33,11 +33,11 @@
             <version>${jettyVersion}</version>
         </dependency>
 
- <!--       <dependency>
+        <dependency>
             <groupId>com.auth0</groupId>
             <artifactId>auth0-servlet</artifactId>
             <version>${auth0-servlet.version}</version>
-        </dependency>-->
+        </dependency>
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
